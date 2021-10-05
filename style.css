@@ -160,22 +160,20 @@ padding: 1rem;
 
 .app-download {
 height: 8rem;
-width: 10rem;
-background-size: cover;
-max-width: 100%;
+width: 12rem;
+ background-size: cover;
+ max-width: 100%;
 
 }
 
 .app-download:nth-child(1) {
-background-image: url('Instagram/apple button.png');
+background-image: url('Instagram/apple\ button.png');
 
 
 }
 
 .app-download:nth-child(2) {
-background-image: url('Instagram/google button.png');
-
-
+background-image: url('Instagram/google\ button.png');
 
 }
 
